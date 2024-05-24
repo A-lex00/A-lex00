@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-lex00
 - 👀 I’m interested in art,music and food :D
-- 🌱 I’m currently learning computer engineering in the University of Tor Vergata
+- 💻​ I’m currently learning computer engineering in the University of Tor Vergata
 - 📫 You can reach me about my email!
 
 <!---
